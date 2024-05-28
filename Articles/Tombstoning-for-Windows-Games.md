@@ -11,7 +11,7 @@ This article describes conditions that can cause game interruptions as part of t
 
 ## Sample
 
-* [Tombstoning Sample](https://github.com/simondarksidej/XNAGameStudio/wiki/Tombstoning_Sample)
+* [Tombstoning Sample](Tombstoning-Sample)
 
 > All content and source code downloaded from this page are bound to the Microsoft Permissive License (Ms-PL).
 

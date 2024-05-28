@@ -11,9 +11,9 @@ This sample shows how to access vertex position data from a model. It then uses 
 
 ## Sample Overview
 
-This sample builds on the ideas presented in the [Picking](https://github.com/simondarksidej/XNAGameStudio/wiki/Picking) sample. If you're unfamiliar with the process of converting between world space and screen space, and checking for intersection between rays and bounding primitives, you should start with the Picking sample, which explains these basic concepts.
+This sample builds on the ideas presented in the [Picking](Picking) sample. If you're unfamiliar with the process of converting between world space and screen space, and checking for intersection between rays and bounding primitives, you should start with the Picking sample, which explains these basic concepts.
 
-This sample extends the approximate bounding box tests from the [Picking](https://github.com/simondarksidej/XNAGameStudio/wiki/Picking) sample to perform an accurate per-triangle picking test. It loops over all the triangles in the model, performing a ray-to-triangle intersection test for each one. It uses a custom content processor to extract the model vertex position data into a format that can be easily accessed at runtime.
+This sample extends the approximate bounding box tests from the [Picking](Picking) sample to perform an accurate per-triangle picking test. It loops over all the triangles in the model, performing a ray-to-triangle intersection test for each one. It uses a custom content processor to extract the model vertex position data into a format that can be easily accessed at runtime.
 
 > All content and source code downloaded from this page are bound to the Microsoft Permissive License (Ms-PL).
 

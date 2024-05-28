@@ -7,7 +7,7 @@ Games: 2D Graphics, Games: Collision|5/24/2007|Tutorial
 
 ## Description
 
-This tutorial details how to perform per-pixel collision detection in two dimensions. This tutorial builds on the previous tutorial in this series, [Collision Series 1: 2D Rectangle Collision](https://github.com/simondarksidej/XNAGameStudio/wiki/Collision_Series_1_2D_Rectangle_Collision). Follow the steps in that tutorial before starting this tutorial.
+This tutorial details how to perform per-pixel collision detection in two dimensions. This tutorial builds on the previous tutorial in this series, [Collision Series 1: 2D Rectangle Collision](Collision-Series-1-2D-Rectangle-Collision). Follow the steps in that tutorial before starting this tutorial.
 
 ## Tutorial Overview
 
@@ -15,13 +15,13 @@ In the previous example, you created a simple object avoidance game by using rec
 
 ## Other items in the Collision Series
 
-* [Collision Series 1: 2D Rectangle Collision](https://github.com/simondarksidej/XNAGameStudio/wiki/Collision_Series_1_2D_Rectangle_Collision)
+* [Collision Series 1: 2D Rectangle Collision](Collision-Series-1-2D-Rectangle-Collision)
 
-* [Collision Series 3: 2D Collision with Transformed Objects](https://github.com/simondarksidej/XNAGameStudio/wiki/Collision_Series_3_2D_Collision_with_Transformed_Objects)
+* [Collision Series 3: 2D Collision with Transformed Objects](Collision-Series-3-2D-Collision-with-Transformed-Objects)
 
-* [Collision Series 4: Collision with a Heightmap](https://github.com/simondarksidej/XNAGameStudio/wiki/Collision_Series_4_Collision_with_a_Heightmap)
+* [Collision Series 4: Collision with a Heightmap](Collision-Series-4-Collision-with-a-Heightmap)
 
-* [Collision Series 5: Heightmap Collision with Normals](https://github.com/simondarksidej/XNAGameStudio/wiki/Collision_Series_5_Heightmap_Collision_with_Normals)
+* [Collision Series 5: Heightmap Collision with Normals](Collision-Series-5-Heightmap-Collision-with-Normals)
 
 > All content and source code downloaded from this page are bound to the Microsoft Permissive License (Ms-PL).
 

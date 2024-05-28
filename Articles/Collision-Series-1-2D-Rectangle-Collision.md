@@ -15,13 +15,13 @@ Games don't need to be complex to be fun and interesting. Obstacle avoidance gam
 
 ## Other items in the Collision Series:
 
-* [Collision Series 2: 2D Per-Pixel Collision](https://github.com/simondarksidej/XNAGameStudio/wiki/Collision_Series_2_2D_Per-Pixel_Collision)
+* [Collision Series 2: 2D Per-Pixel Collision](Collision-Series-2-2D-Per-Pixel-Collision)
 
-* [Collision Series 3: 2D Collision with Transformed Objects](https://github.com/simondarksidej/XNAGameStudio/wiki/Collision_Series_3_2D_Collision_with_Transformed_Objects)
+* [Collision Series 3: 2D Collision with Transformed Objects](Collision-Series-3-2D-Collision-with-Transformed-Objects)
 
-* [Collision Series 4: Collision with a Heightmap](https://github.com/simondarksidej/XNAGameStudio/wiki/Collision_Series_4_Collision_with_a_Heightmap)
+* [Collision Series 4: Collision with a Heightmap](Collision-Series-4-Collision-with-a-Heightmap)
 
-* [Collision Series 5: Heightmap Collision with Normals](https://github.com/simondarksidej/XNAGameStudio/wiki/Collision_Series_5_Heightmap_Collision_with_Normals)
+* [Collision Series 5: Heightmap Collision with Normals](Collision-Series-5-Heightmap-Collision-with-Normals)
 
 > All content and source code downloaded from this page are bound to the Microsoft Permissive License (Ms-PL).
 

@@ -42,4 +42,4 @@ And render using the effect:
 
 Note the use of a custom vertex during this render. 
 
-Consult the custom vertex article if you would like to see how to [create your own custom vertices](https://github.com/simondarksidej/XNAGameStudio/wiki/XNA-CustomVertices).
+Consult the custom vertex article if you would like to see how to [create your own custom vertices](XNA-CustomVertices).

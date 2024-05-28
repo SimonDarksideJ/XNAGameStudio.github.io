@@ -9,7 +9,7 @@ Games: 3D Graphics, Games: Content Pipeline, Games: Graphics, Games: Shaders|6/2
 
 ## Description
 
-This tutorial teaches you how to extend the [Particles 3D](https://github.com/simondarksidej/XNAGameStudio/wiki/Particles_3D) sample so the particle systems are defined by XML files loaded with the XNA Content Pipeline.
+This tutorial teaches you how to extend the [Particles 3D](Particles-3D) sample so the particle systems are defined by XML files loaded with the XNA Content Pipeline.
 
 ## Sample Overview
 

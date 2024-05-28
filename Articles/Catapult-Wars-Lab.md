@@ -7,9 +7,9 @@ Games: 2D Graphics, Games: Collision, Games: Gameplay, Games: Graphics, Input, T
 
 ## Sample Overview
 
-This lab is a full 2D gesture-based catapult battle game. Launch rocks to crush your opponent, but beware the changing wind! Two learning modules help you build the gameplay from scratch, then polish with animation, sounds, and menu screens, all in 90 minutes. Based on the [Game State Management Sample](https://github.com/simondarksidej/XNAGameStudio/wiki/Game-State-Management-(Mango,-C%23VB)).
+This lab is a full 2D gesture-based catapult battle game. Launch rocks to crush your opponent, but beware the changing wind! Two learning modules help you build the gameplay from scratch, then polish with animation, sounds, and menu screens, all in 90 minutes. Based on the [Game State Management Sample](Game-State-Management-(Mango,-C%23VB)).
 
-For more fun with Catapult Wars, see the [Catapult Wars Extensions Kit](https://github.com/simondarksidej/XNAGameStudio/wiki/Catapult_Wars_Extensions_Kit).
+For more fun with Catapult Wars, see the [Catapult Wars Extensions Kit](Catapult-Wars-Extensions-Kit).
 
 Contains:
 

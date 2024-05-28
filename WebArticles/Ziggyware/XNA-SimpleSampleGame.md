@@ -88,7 +88,7 @@ When the game starts, lets set the screen size and to keep things simple, we wil
 ```
 
 So we can display the characters on the screen as well as the player score, we are going to need a Font. So add one to your content project and load it in the LoadContent method as shown below.
-> [See this article about getting started using Fonts in MonoGame](https://github.com/simondarksidej/XNAGameStudio/wiki/XNA-DrawingTextinXNA)
+> [See this article about getting started using Fonts in MonoGame](XNA-DrawingTextinXNA)
 
 
 ```csharp
@@ -367,4 +367,4 @@ Characters fall from the sky.
 
 You must type in the letter that is closest to the bottom of the screen.
 
-Uses Keyboard input and the fonts explained in my [Font article](https://github.com/simondarksidej/XNAGameStudio/wiki/XNA-DrawingTextinXNA).
+Uses Keyboard input and the fonts explained in my [Font article](XNA-DrawingTextinXNA).

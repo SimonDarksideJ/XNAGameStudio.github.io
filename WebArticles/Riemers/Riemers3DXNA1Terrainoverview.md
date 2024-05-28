@@ -4,7 +4,7 @@ This part of the series will show you just how easy it is to get a 3D game using
 
 > If you have not done so already, I recommend working your way through the 2D series to familiarize yourself with some of the fundamentals of MonoGame projects:
 >
-> [2D MonoGame Tutorial for C# overview](https://github.com/SimonDarksideJ/XNAGameStudio/wiki/Riemers2DXNAoverview)
+> [2D MonoGame Tutorial for C# overview](Riemers2DXNAoverview)
 
 Here’s a screenshot of the final chapter of Series 1:
 

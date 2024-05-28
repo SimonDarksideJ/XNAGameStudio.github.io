@@ -7,7 +7,7 @@ Games: 3D Graphics, Games: Content Pipeline|8/13/2007|Article
 
 ## Description
 
-This supplemental article explains the various content types used in the [Ship Game starter kit*](https://github.com/simondarksidej/XNAGameStudio/wiki/Ship Game), including how they're created and how they interact with the XNA Content Pipeline. By using the information in this article, you'll be able to create new playable spaceships, new environments, and new animated sprites for Ship Game.
+This supplemental article explains the various content types used in the [Ship Game starter kit*](Ship-Game), including how they're created and how they interact with the XNA Content Pipeline. By using the information in this article, you'll be able to create new playable spaceships, new environments, and new animated sprites for Ship Game.
 
 > All content and source code downloaded from this page are bound to the Microsoft Permissive License (Ms-PL).
 

@@ -19,15 +19,15 @@ The most important lesson of this sample is that the manner in which you come up
 
 ## Other items in the Shader Series
 
-* [Shader Series: Introduction](https://github.com/simondarksidej/XNAGameStudio/wiki/Shader_Series_Introduction) (Article)
+* [Shader Series: Introduction](Shader-Series-Introduction) (Article)
 
-* [Shader Series 1: Vertex Lighting Sample](https://github.com/simondarksidej/XNAGameStudio/wiki/Shader_Series_1_Vertex_Lighting)
+* [Shader Series 1: Vertex Lighting Sample](Shader-Series-1-Vertex-Lighting)
 
-* [Shader Series 3: Per-Pixel Lighting Sample](https://github.com/simondarksidej/XNAGameStudio/wiki/Shader_Series_3_Per-Pixel_Lighting)
+* [Shader Series 3: Per-Pixel Lighting Sample](Shader-Series-3-Per-Pixel-Lighting)
 
-* [Shader Series 4: Materials and Multiple Light Sources](https://github.com/simondarksidej/XNAGameStudio/wiki/Shader_Series_4_Materials_and_Multiple_Light_Sources)
+* [Shader Series 4: Materials and Multiple Light Sources](Shader-Series-4-Materials-and-Multiple-Light-Sources)
 
-* [Shader Series 5: Multipass Lighting](https://github.com/simondarksidej/XNAGameStudio/wiki/Shader_Series_5_Multipass_Lighting)
+* [Shader Series 5: Multipass Lighting](Shader-Series-5-Multipass-Lighting)
 
 > All content and source code downloaded from this page are bound to the Microsoft Permissive License (Ms-PL).
 

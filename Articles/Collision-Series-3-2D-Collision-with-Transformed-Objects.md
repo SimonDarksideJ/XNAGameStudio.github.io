@@ -9,7 +9,7 @@ Games: 2D Graphics, Games: Collision|6/28/2007|Tutorial
 
 This tutorial explains how to perform per-pixel collision detection in two dimensions on sprites that use linear transformations such as rotation or scale.
 
-This tutorial builds on the previous tutorial in this series, [Collision Series 2: 2D Per-Pixel Collision](https://github.com/simondarksidej/XNAGameStudio/wiki/Collision_Series_2_2D_Per-Pixel_Collision). Follow the steps in the previous tutorials before starting this one.
+This tutorial builds on the previous tutorial in this series, [Collision Series 2: 2D Per-Pixel Collision](Collision-Series-2-2D-Per-Pixel-Collision). Follow the steps in the previous tutorials before starting this one.
 
 ## Tutorial Overview
 
@@ -17,13 +17,13 @@ In the previous tutorial, you enhanced your simple obstacle avoidance game by ad
 
 ## Other items in the Collision Series
 
-* [Collision Series 1: 2D Rectangle Collision](https://github.com/simondarksidej/XNAGameStudio/wiki/Collision_Series_1_2D_Rectangle_Collision)
+* [Collision Series 1: 2D Rectangle Collision](Collision-Series-1-2D-Rectangle-Collision)
 
-* [Collision Series 2: 2D Per-Pixel Collision](https://github.com/simondarksidej/XNAGameStudio/wiki/Collision_Series_2_2D_Per-Pixel_Collision)
+* [Collision Series 2: 2D Per-Pixel Collision](Collision-Series-2-2D-Per-Pixel-Collision)
 
-* [Collision Series 4: Collision with a Heightmap](https://github.com/simondarksidej/XNAGameStudio/wiki/Collision_Series_4_Collision_with_a_Heightmap)
+* [Collision Series 4: Collision with a Heightmap](Collision-Series-4-Collision-with-a-Heightmap)
 
-* [Collision Series 5: Heightmap Collision with Normals](https://github.com/simondarksidej/XNAGameStudio/wiki/Collision_Series_5_Heightmap_Collision_with_Normals)
+* [Collision Series 5: Heightmap Collision with Normals](Collision-Series-5-Heightmap-Collision-with-Normals)
 
 > All content and source code downloaded from this page are bound to the Microsoft Permissive License (Ms-PL).
 

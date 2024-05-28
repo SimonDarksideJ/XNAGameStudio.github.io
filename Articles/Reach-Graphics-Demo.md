@@ -21,23 +21,23 @@ This sample was originally developed as a demo for MIX; you can see the sample i
 
 Much of the code in this demo, especially the custom content processors that are used to prepare the graphics content, is borrowed from existing XNA Game Studio samples. Specifically:
 
-* [Skinned Model](https://github.com/simondarksidej/XNAGameStudio/wiki/Skinned_Model)
+* [Skinned Model](Skinned-Model)
 
     *SkinnedModelProcessor, SkinningData, Keyframe, AnimationPlayer, and AnimationClip*
 
-* [Custom Model Effect](https://github.com/simondarksidej/XNAGameStudio/wiki/Custom_Model_Effect)
+* [Custom Model Effect](Custom-Model-Effect)
 
     *EnvironmentMappedModelProcessor, EnvironmentMappedMaterialProcessor, and CubemapProcessor*
 
-* [Generated Geometry](https://github.com/simondarksidej/XNAGameStudio/wiki/Generated_Geometry)
+* [Generated Geometry](Generated-Geometry)
 
     *SkyProcessor, SkyContent, and Sky*
 
-* [Sprite Effects](https://github.com/simondarksidej/XNAGameStudio/wiki/Sprite_Effects)
+* [Sprite Effects](Sprite-Effects)
 
     *TexturePlusAlphaProcessor*
 
-* [Simple Animation](https://github.com/simondarksidej/XNAGameStudio/wiki/Simple_Animation)
+* [Simple Animation](Simple-Animation)
 
     *Tank class*
 
