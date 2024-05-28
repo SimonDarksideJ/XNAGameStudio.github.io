@@ -10,27 +10,31 @@ At this moment, you will find five series of Riemer's Tutorials on this site: on
 
 Let me show you the final screens of the 5 projects we create during the Tutorials:
 
-<p align="center"><table border="0" width="100%" cellpadding="0" cellspacing="0"><tbody><tr colspan="2"><td width="100%" colspan="2"><center><a href="https://github.com/simondarksidej/XNAGameStudio/wiki/Riemers2DXNAoverview"><img border="0" src="https://github.com/simondarksidej/XNAGameStudio/raw/archive/Images/Riemers/RiemersOverview01.jpg?raw=true"><br><span lang="EN-GB" style="FONT-SIZE: 11pt; FONT-FAMILY: &quot;trebuchet ms&quot;"><i>2D Series 1: Shooters!<br><br></i></span></a></center></td></tr><tr><td width="50%"><center><a href="https://github.com/simondarksidej/XNAGameStudio/wiki/Riemers3DXNA1Terrainoverview"><img border="0" src="https://github.com/simondarksidej/XNAGameStudio/raw/archive/Images/Riemers/RiemersOverview02.jpg?raw=true"><br><span lang="EN-GB" style="FONT-SIZE: 11pt; FONT-FAMILY: &quot;trebuchet ms&quot;"><i>3D Series 1: Terrain<br><br></i></span></a></center></td><td width="50%"><center><a href="https://github.com/simondarksidej/XNAGameStudio/wiki/Riemers3DXNA2flightsimoverview"><img border="0" src="https://github.com/simondarksidej/XNAGameStudio/raw/archive/Images/Riemers/RiemersOverview03.jpg?raw=true"><br><span lang="EN-GB" style="FONT-SIZE: 11pt; FONT-FAMILY: &quot;trebuchet ms&quot;"><i>3D Series 2: Flightsim<br><br></i></span></a></center></td></tr><tr><td width="50%"><center><a href="https://github.com/simondarksidej/XNAGameStudio/wiki/Riemers3DXNA3hlsloverview"><img border="0" src="https://github.com/simondarksidej/XNAGameStudio/raw/archive/Images/Riemers/RiemersOverview04.jpg?raw=true"><br><span lang="EN-GB" style="FONT-SIZE: 11pt; FONT-FAMILY: &quot;trebuchet ms&quot;"><i>3D Series 3: HLSL Intro<br><br></i></span></a></center></td><td width="50%"><center><a href="https://github.com/simondarksidej/XNAGameStudio/wiki/Riemers3DXNA4advterrainoverview"><img border="0" src="https://github.com/simondarksidej/XNAGameStudio/raw/archive/Images/Riemers/RiemersOverview05.jpg?raw=true"><br><span lang="EN-GB" style="FONT-SIZE: 11pt; FONT-FAMILY: &quot;trebuchet ms&quot;"><i>3D Series 4: Advanced Terrain<br/><br/></i></span></a></center></td></tr></tbody></table></p?>
+|||
+|-|-|
+|![[2D Series 1: Shooters!](Riemers2DXNAoverview)](https://github.com/simondarksidej/XNAGameStudio/raw/archive/Images/Riemers/RiemersOverview01.jpg?raw=true)<br/>[2D Series - Shooters](Riemers2DXNAoverview)||
+|![[3D Series 1 - Terrain](Riemers3DXNA1Terrainoverview)](https://github.com/simondarksidej/XNAGameStudio/raw/archive/Images/Riemers/RiemersOverview06.jpg?raw=true)<br/>[3D Series 1 - Terrain](Riemers3DXNA1Terrainoverview)|![[3D Series 2 - Flightsim](Riemers3DXNA2flightsimoverview)](https://github.com/simondarksidej/XNAGameStudio/raw/archive/Images/Riemers/RiemersOverview08.jpg?raw=true)<br/>[3D Series 2 - Flightsim](Riemers3DXNA2flightsimoverview)|
+|![[3D Series 3 - HLSL](Riemers3DXNA3hlsloverview)](https://github.com/simondarksidej/XNAGameStudio/raw/archive/Images/Riemers/RiemersOverview09.jpg?raw=true)<br/>[3D Series 3 - HLSL](Riemers3DXNA3hlsloverview)|![[3D Series 4 - Advanced Terrain](Riemers3DXNA4advterrainoverview)](https://github.com/simondarksidej/XNAGameStudio/raw/archive/Images/Riemers/RiemersOverview10.jpg?raw=true)<br/>[3D Series 4 - Advanced Terrain](Riemers3DXNA4advterrainoverview)|
 
-## [2D Series - Shooters](Riemers2DXNAoverview.md)
+## [2D Series - Shooters](Riemers2DXNAoverview)
 
 If you are interested in beginning game programming in MonoGame, you can start with the 2D series. In this series, you will learn enough techniques to create almost any 2D game you can think of! This is a screenshot of the game we will create in this series:
 
 ![2D Series 1](https://github.com/simondarksidej/XNAGameStudio/raw/archive/Images/Riemers/RiemersOverview06.jpg?raw=true)
 
-## [3D Series 1 - Terrain](Riemers3DXNA1Terrainoverview.md)
+## [3D Series 1 - Terrain](Riemers3DXNA1Terrainoverview)
 
 If you are ready for some 3D programming, you should give the first Series of 3D programming a try. In this first Series of 3D programming, you will create a true three-dimensional landscape. Linking to your graphics card, drawing a few triangles, and lighting basics will be introduced here.
 
 ![3D Series 1 - Terrain](https://github.com/simondarksidej/XNAGameStudio/raw/archive/Images/Riemers/RiemersOverview07.jpg?raw=true)
 
-## [3D Series 2 - Flightsim](Riemers3DXNA2flightsimoverview.md)
+## [3D Series 2 - Flightsim](Riemers3DXNA2flightsimoverview)
 
 In this second series of 3D MonoGame Tutorials, you will learn how to create a complete flight simulator! This will include flying your aircraft in a true 3D city and firing bullets at objects! Including some basic collision detection, this series already contains enough content to write your own 3D game!!
 
 ![3D Series 2 - Flightsim](https://github.com/simondarksidej/XNAGameStudio/raw/archive/Images/Riemers/RiemersOverview08.jpg?raw=true)
 
-## [3D Series 3 - HLSL](Riemers3DXNA3hlsloverview.md)
+## [3D Series 3 - HLSL](Riemers3DXNA3hlsloverview)
 
 In the 3rd Series of 3D MonoGame Tutorials, we will start exploring Shaders. Shaders are used to improve the visual quality of the displayed image.
 
@@ -40,7 +44,7 @@ As a final goal to demonstrate the strength of shaders, I have chosen my example
 
 ![3D Series 3 - HLSL](https://github.com/simondarksidej/XNAGameStudio/raw/archive/Images/Riemers/RiemersOverview09.jpg?raw=true)
 
-## [3D Series 4 - Advanced Terrain](Riemers3DXNA4advterrainoverview.md)
+## [3D Series 4 - Advanced Terrain](Riemers3DXNA4advterrainoverview)
 
 Taking these tutorials to the next level in this fourth Series of 3D MonoGame Tutorials, we will see some more advanced techniques that will allow us to create a real 3D world that you can use as a start for your own game. Multitexturing and reflective water are just a few of the techniques covered.
 
@@ -52,10 +56,10 @@ Taking these tutorials to the next level in this fourth Series of 3D MonoGame Tu
 
 There are also a set of additional educational reference resources for understanding Matrices and generating normals which can be found here:
 
-* [Automatically generating normals](Riemersnormalgeneration.md)
-* [Matrices and DirectX](RiemersMattices.md)
-* [The maths behind Matrices](RiemersMatrixMath.md)
-* [Homogeneous matrices](RiemersHomogeneousMatricies.md)
+* [Automatically generating normals](Riemersnormalgeneration)
+* [Matrices and DirectX](RiemersMattices)
+* [The maths behind Matrices](RiemersMatrixMath)
+* [Homogeneous matrices](RiemersHomogeneousMatricies)
 
 ## XNA Game Studio Archive
 

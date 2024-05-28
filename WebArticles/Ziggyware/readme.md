@@ -3,7 +3,8 @@
 From the awesome Ziggyware site that was a long supporter of game developers, and especially XNA devs.
 
 You can still revisit Ziggy using the WayBack machine here:
-https://web.archive.org/web/20090123020842/http://ziggyware.com/articles.php
+
+- [Ziggyware](https://web.archive.org/web/20090123020842/http://ziggyware.com/articles.php)
 
 > Just be aware the way back machine doesn't remember downloads!
 
@@ -24,7 +25,7 @@ https://web.archive.org/web/20090123020842/http://ziggyware.com/articles.php
 |[XNA-UsingEffect(FX)Files](XNA-UsingEffect(FX)Files)|Using Effect Files in XNA|
 |[XNA-UsingtheMouse](XNA-UsingtheMouse)|Using the Mouse|
 |[XNA-WritingtoTextureSurface](XNA-WritingtoTextureSurface)|Writing to a Texture in MonoGame|
-|[A* Path Finding in C#](AStarPathFindinginC#)|Here is a port of my path finding algorithm from C++ to C# and XNA|
+|[A* Path Finding in C#](AStarPathFindinginCSharp)|Here is a port of my path finding algorithm from C++ to C# and XNA|
 
 ## C++ Articles
 
@@ -57,17 +58,17 @@ https://web.archive.org/web/20090123020842/http://ziggyware.com/articles.php
 |Title|Description|
 |-|-|
 |[C# Introduction](C#Introduction)|A simple introduction to programming in C#|
-|[Advanced Sockets Implementation in C#](AdvancedSocketsImplementationinC#)|Socket programming in C# is much easier than it is in c/c++. Here we use attributes and reflection to re-create and populate incoming packets|
-|[Counting Words in a String in C#](CountingWordsinaStringinC#)|In this example we use a sorted list to count the number of distinct words and total character count of a string in C#|
-|[Cryptography in C#](CryptographyinC#)|Here is a simple example of Rijndael Symmetric Encryption and Decryption using C#|
+|[Advanced Sockets Implementation in C#](AdvancedSocketsImplementationinCSharp)|Socket programming in C# is much easier than it is in c/c++. Here we use attributes and reflection to re-create and populate incoming packets|
+|[Counting Words in a String in C#](CountingWordsinaStringinCSharp)|In this example we use a sorted list to count the number of distinct words and total character count of a string in C#|
+|[Cryptography in C#](CryptographyinCSharp)|Here is a simple example of Rijndael Symmetric Encryption and Decryption using C#|
 |[Event Handlers](EventHandlers)|Here is a small example on adding your own events to the events list of a user control|
 |[Extender Controls](ExtenderControls)|Ever wondered how that tool tip control adds properties to all of your controls on a windows form? We can achieve this with a user control by implementing the IExtenderProvider interface|
-|[High Performance Counters in C#](HighPerformanceCountersinC#)|We need to use hi performance counters when calculating time intervals since the standard timer is only accurate up to one millisecond. The QueryPerformanceCounter function returns a much more accurate time accurate to 64 bits!|
+|[High Performance Counters in C#](HighPerformanceCountersinCSharp)|We need to use hi performance counters when calculating time intervals since the standard timer is only accurate up to one millisecond. The QueryPerformanceCounter function returns a much more accurate time accurate to 64 bits!|
 |[Implementing IComparable](ImplementingIComparable)|IComparable is used when sorting elements in a HashTable or ArrayList|
-|[Simple Time Server using Sockets in C#](SimpleTimeServerusingSocketsinC#)|Here is a basic implementation of a socket client and server|
+|[Simple Time Server using Sockets in C#](SimpleTimeServerusingSocketsinCSharp)|Here is a basic implementation of a socket client and server|
 |[SQL Server, ODBC, OleDB All in One](SQLServerODBCOleDBAllinOne)|Here is a wrapper that uses Odbc, SqlClient (for SQL Server) AND OleDb|
 |[Streaming an Image from a URL](StreaminganImagefromaURL)|Streaming an image from the internet is extremely easy in C#|
 |[Streaming HTTP Data](StreamingHTTPData)|Downloading HTML from the internet is a breeze with C#|
 |[Using the WebBrowser COM Object](UsingtheWebBrowserCOMObject)|The WebBrowser COM object is a valuable tool when you need rich dynamic content in your application or would just like to display web based content|
 |[Validating XML with an XSD](ValidatingXMLwithanXSD)|Validating an XML File vs a schema file (XSD) in C#|
-|[XPath Queries in C#](XPathQueriesinC#)|simple tutorial on using XPath Queries in C#|
+|[XPath Queries in C#](XPathQueriesinCSharp)|simple tutorial on using XPath Queries in C#|
