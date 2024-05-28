@@ -17,7 +17,7 @@ The archive is now complete and all but two samples can be found here, next step
 
 If you have comments or suggestions for the archive, please let me know on twitter @SimonDarksideJ or on this site.
 
-## [XNAGame Studio Archive](XNAArchiveContents)
+## [XNAGame Studio Archive](Articles/XNAArchiveContents.md)
 
 The XNA Game Studio archive contains all of the content (over 100 articles, samples and more) from the now retired XNA Educational Library, broken up in to several distinct sections:
 
@@ -37,13 +37,13 @@ All the samples are available in both source and include a downloadable zip for 
 
 Over time a lot of these samples will be upgraded to MonoGame, or even included in the [MonoGame.Samples collection](https://github.com/monogame/monogame.samples).
 
-## [Shawn Hargreaves Blog](ShawnHargreaves)
+## [Shawn Hargreaves Blog](/WebArticles/ShawnHargreaves)
 
 What should be required reading for any XNA/MonoGame developer is the blog by one of the original developers of the XNA Framework at Microsoft.
 
 Only one set of articles here at the moment, but this should be mandatory reading if you deal with XML!
 
-## [Ziggyware Archive](Ziggyware)
+## [Ziggyware Archive](/WebArticles/Ziggyware)
 
 Ziggyware was a massive tutorial site back in the day and the place developers went to go to get their daily feed of interesting stuff.
 
@@ -53,26 +53,26 @@ We've grabbed a load of articles from the site, including:
 * C# tutorials
 * XNA tutorials (even a couple of MonoGame articles too)
 
-## [Riemer's tutorial series](RiemersArchiveOverview)
+## [Riemer's tutorial series](/WebArticles/Riemers)
 
 Riemer's was considered the premier tutorial site back in the early days of XNA and its author [Riemer Grootjans](https://www.amazon.com/Riemer-Grootjans/e/B002DP7P3U) also wrote several books on advanced programming techniques for XNA.
 
-We've managed to archive the [entire site's XNA content](RiemersArchiveOverview) (with the exception of his books :D) and are upgrading this to the latest MonoGame version.
+We've managed to archive the [entire site's XNA content](/WebArticles/Riemers) (with the exception of his books :D) and are upgrading this to the latest MonoGame version.
 
 Here you will find the following tutorial series
 
-* [2D Series - Shooters](Riemers2DXNAoverview)
-* [3D Series 1 - Terrain](Riemers3DXNA1Terrainoverview)
-* [3D Series 2 - Flightsim](Riemers3DXNA2flightsimoverview)
-* [3D Series 3 - HLSL](Riemers3DXNA3hlsloverview)
-* [3D Series 4 - Advanced Terrain](Riemers3DXNA4advterrainoverview)
+* [2D Series - Shooters](/WebArticles/Riemers/Riemers2DXNAoverview)
+* [3D Series 1 - Terrain](/WebArticles/Riemers/Riemers3DXNA1Terrainoverview)
+* [3D Series 2 - Flightsim](/WebArticles/Riemers/Riemers3DXNA2flightsimoverview)
+* [3D Series 3 - HLSL](/WebArticles/Riemers/Riemers3DXNA3hlsloverview)
+* [3D Series 4 - Advanced Terrain](/WebArticles/Riemers/Riemers3DXNA4advterrainoverview)
 
 ### As well as several helpful short articles
 
-* [Automatically generating normals](Riemersnormalgeneration)
-* [Matrices and DirectX](RiemersMattices)
-* [The maths behind Matrices](RiemersMatrixMath)
-* [Homogeneous matrices](RiemersHomogeneousMatricies)
+* [Automatically generating normals](/WebArticles/Riemers/Riemersnormalgeneration)
+* [Matrices and DirectX](/WebArticles/Riemers/RiemersMattices)
+* [The maths behind Matrices](/WebArticles/Riemers/RiemersMatrixMath)
+* [Homogeneous matrices](/WebArticles/Riemers/RiemersHomogeneousMatricies)
 
 ## Contribute more
 
