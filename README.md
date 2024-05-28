@@ -17,7 +17,7 @@ The archive is now complete and all but two samples can be found here, next step
 
 If you have comments or suggestions for the archive, please let me know on twitter @SimonDarksideJ or on this site.
 
-## [XNAGame Studio Archive](Articles/XNAArchiveContents)
+## [XNAGame Studio Archive](Articles)
 
 The XNA Game Studio archive contains all of the content (over 100 articles, samples and more) from the now retired XNA Educational Library, broken up in to several distinct sections:
 
