@@ -1,6 +1,6 @@
 # Everything you ever wanted to know about IntermediateSerializer
 
-It is good to know [how to fish](Teaching-a-man-to-fish), but sometimes you just want to go to the store and buy a salmon that somebody else already caught for you. With this in mind, here is my attempt to fill in the blanks about exactly how to use [IntermediateSerializer](IntermediateSerializervsXmlSerializer).
+It is good to know [how to fish](Teaching-a-man-to-fish.md), but sometimes you just want to go to the store and buy a salmon that somebody else already caught for you. With this in mind, here is my attempt to fill in the blanks about exactly how to use [IntermediateSerializer](IntermediateSerializervsXmlSerializer.md).
 
 ## Contents
 

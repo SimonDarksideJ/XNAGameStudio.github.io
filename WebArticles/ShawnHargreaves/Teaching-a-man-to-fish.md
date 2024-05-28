@@ -60,4 +60,4 @@ Run the program. Look in the bin\Debug folder, and open the test.xml output file
     </XnaContent>
 ```
 
-Tada! That’s how [IntermediateSerializer](Everything-you-ever-wanted-to-know-about-IntermediateSerializer) represents this particular class in XML.
+Tada! That’s how [IntermediateSerializer](Everything-you-ever-wanted-to-know-about-IntermediateSerializer.md) represents this particular class in XML.
